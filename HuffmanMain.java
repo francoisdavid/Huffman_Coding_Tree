@@ -8,7 +8,7 @@ import java.util.Scanner;
 import java.io.FileReader;
 import java.io.IOException;
 
-public class Huffman {
+public class HuffmanMain {
 
     public static void main(String[] args) {
         // Declare the file.
